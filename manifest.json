@@ -1,0 +1,57 @@
+{
+  "name": "Kelly Marie's App Launcher",
+  "short_name": "AppLauncher",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFDCE0",
+  "theme_color": "#FB5A69",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "apps": [
+    {
+      "name": "Dual Timer",
+      "url": "https://kellypope714-ui.github.io/newdualtimer2/",
+      "icon": "https://kellypope714-ui.github.io/newdualtimer2/icon.png"
+    },
+    {
+      "name": "Drawing",
+      "url": "https://kellypope714-ui.github.io/drawing/",
+      "icon": "https://kellypope714-ui.github.io/drawing/icon.png"
+    },
+    {
+      "name": "HTML Editor",
+      "url": "https://kellypope714-ui.github.io/Kphtmleditor/",
+      "icon": "https://kellypope714-ui.github.io/Kphtmleditor/icon.png"
+    },
+    {
+      "name": "Template Manager",
+      "url": "https://kellypope714-ui.github.io/Templatemanager/",
+      "icon": "https://kellypope714-ui.github.io/Templatemanager/icon.png"
+    },
+    {
+      "name": "Tracker Vault",
+      "url": "https://kellypope714-ui.github.io/trackervault/",
+      "icon": "https://kellypope714-ui.github.io/trackervault/icon.png"
+    },
+       {
+      "name": "Password Vault",
+      "url": "https://kellypope714-ui.github.io/Passwordvault/",
+      "icon": "https://kellypope714-ui.github.io/Passwordvault/icon.png"
+    },
+       {
+      "name": "CSS Snippet Vault",
+      "url": "https://kellypope714-ui.github.io/Csssnippetvault/",
+      "icon": "https://kellypope714-ui.github.io/Csssnippetvault/icon.png"
+    }
+  ]
+}
